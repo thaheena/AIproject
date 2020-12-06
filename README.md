@@ -1,2 +1,2 @@
 # AIproject
-Displaying "hello world" On the screen using print python! 
+Print("Hello world") 
