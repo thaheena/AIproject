@@ -1,0 +1,10 @@
+n=int(input("Enter the nth value:")) 
+a=0
+b=1
+sum=0
+Print("Fibonacci series:", end=" ") 
+While(sum<=n):
+ Print (sum, end=" ") 
+ a=b
+ b=sum
+ sum=a+b
