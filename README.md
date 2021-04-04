@@ -1,2 +1,0 @@
-# AIproject
-Print("Hello world") 
